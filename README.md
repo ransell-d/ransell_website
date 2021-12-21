@@ -1,11 +1,18 @@
-## Welcome to my website!
+## Welcome to Dr. Ransell D'Souza website!
 I've made this page to showcase the codes I've developed over the past few years.
 
 You can use the [editor on GitHub](https://github.com/ransell-d/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### My list of publications:
+1. Electron-phonon scattering and thermoelectric transport in p-type PbTe from first principles
+- R D’Souza, Jiang Cao, José D Querales-Flores, Stephen Fahy, Ivana Savić
+- Physical Review B 102, 115204 (2020).
+
+2. First-principles study of the electrical and lattice thermal transport in monolayer and bilayer graphene
+- R D’Souza, S Mukherjee
+- Physical Review B 95 (8), 085435 (2017)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
