@@ -1,6 +1,6 @@
 ## Welcome to Dr. Ransell D'Souza's website!
 I've made this page to showcase the codes I've developed over the past few years.
-To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/) or my [CONNECT profile](https://connectcentre.ie/people/ransell-dsouza/)
+To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/) or my [CONNECT profile](https://connectcentre.ie/people/ransell-dsouza/).
 
 ### My list of first-author publications:
 1. Electron-phonon scattering and thermoelectric transport in p-type PbTe from first principles
