@@ -1,5 +1,5 @@
 ## Welcome to Dr. Ransell D'Souza's website!
-I've made this page to showcase the codes I've developed over the past few years.
+I've made this page to showcase the codes I've developed over the last couple of years.
 To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/) or my [CONNECT profile](https://connectcentre.ie/people/ransell-dsouza/).
 
 ### My list of first-author publications:
@@ -58,5 +58,5 @@ markdown Syntax highlighted code block
 ```
 
 ### Contact
-If you want to reach out to me:
+If you want to reach out to me:\
 My email address: ransell.d@gmail.com
