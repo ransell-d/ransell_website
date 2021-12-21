@@ -1,4 +1,4 @@
-## Who am I and why did I make this?
+## Welcome to Dr. Ransell D'Souza's website?
 I'm currently a postdoctoral researcher at Tyndall National institute, UCC, Ireland.
 I've made this page to showcase the codes I've developed over the last couple of years.
 To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/) or my [CONNECT profile](https://connectcentre.ie/people/ransell-dsouza/).
