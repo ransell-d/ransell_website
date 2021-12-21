@@ -1,5 +1,6 @@
-## Welcome to Dr. Ransell D'Souza website!
+## Welcome to Dr. Ransell D'Souza's website!
 I've made this page to showcase the codes I've developed over the past few years.
+To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/)
 
 You can use the [editor on GitHub](https://github.com/ransell-d/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
