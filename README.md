@@ -3,7 +3,7 @@ I'm currently a postdoctoral researcher at Tyndall National institute, UCC, Irel
 I've made this page to showcase the codes I've developed over the last couple of years.
 To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/) or my [CONNECT profile](https://connectcentre.ie/people/ransell-dsouza/).
 
-### My list of first-author publications:
+### My list of first-author publications. [arxiv](#arxiv):
 1. Electron-phonon scattering and thermoelectric transport in p-type PbTe from first principles
    - R D’Souza, Jiang Cao, José D Querales-Flores, Stephen Fahy, Ivana Savić
    - Physical Review B 102, 115204 (2020).
@@ -39,6 +39,7 @@ nanomaterial: A first-principles study
    - R D’Souza, S Mukherjee
    - Physica E: Low-dimensional Systems and Nanostructures 69, 138-144 (2015)
 
+### Arxiv 
 The free pdf versions of my papers can be found on my [google scholar page](https://scholar.google.co.in/citations?user=iIhCZqkAAAAJ&hl=en).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
