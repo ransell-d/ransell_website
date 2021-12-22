@@ -62,7 +62,8 @@ markdown Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### Social media
-<img src = “images/linkedin.png” width = 200 >
+<a href="https://www.linkedin.com/in/ransell-d-souza-11b022207"> <img src="images/linkedin.png" alt="rans linkedin" class="inline" width ="30"/>
+
 
 ### Contact
 If you want to reach out to me:\
