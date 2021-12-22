@@ -61,6 +61,8 @@ markdown Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Social media
+<img src = “images/linkedin.png” width = 200 >
 
 ### Contact
 If you want to reach out to me:\
