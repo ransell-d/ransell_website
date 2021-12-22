@@ -3,7 +3,7 @@ I'm currently a postdoctoral researcher at Tyndall National institute, UCC, Irel
 I've made this page to showcase the codes I've developed over the last couple of years.
 To know more about my research, visit my [Edge Marie Curie Fellowship profile](https://edge-research.eu/fellows/ransell-dsouza/) or my [CONNECT profile](https://connectcentre.ie/people/ransell-dsouza/).
 
-### My list of first-author publications. [arxiv](#arxiv):
+### My list of first-author publications: [Free pdf version](#arxiv):
 1. Electron-phonon scattering and thermoelectric transport in p-type PbTe from first principles
    - R D’Souza, Jiang Cao, José D Querales-Flores, Stephen Fahy, Ivana Savić
    - Physical Review B 102, 115204 (2020).
