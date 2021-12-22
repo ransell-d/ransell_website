@@ -43,7 +43,8 @@ nanomaterial: A first-principles study
 The free pdf versions of my papers can be found on my [google scholar page](https://scholar.google.co.in/citations?user=iIhCZqkAAAAJ&hl=en).
 
 ### Social media
-<a href="https://www.linkedin.com/in/ransell-d-souza-11b022207"> <img src="images/linkedin.png" alt="rans linkedin" class="inline" width ="30"/>
+<a href="https://www.linkedin.com/in/ransell-d-souza-11b022207"> <img src="images/linkedin.png" alt="rans linkedin" class="inline" width ="30">
+<a href="https://www.researchgate.net/profile/Ransell-Dsouza"> <img src="images/ResearchGate_icon_SVG.svg" alt="rans researchgate" class="inline" width ="30">
 
 
 ### Contact
