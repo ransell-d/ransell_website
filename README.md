@@ -42,8 +42,6 @@ nanomaterial: A first-principles study
 #### Arxiv 
 The free pdf versions of my papers can be found on my [google scholar page](https://scholar.google.co.in/citations?user=iIhCZqkAAAAJ&hl=en).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ### Social media
 <a href="https://www.linkedin.com/in/ransell-d-souza-11b022207"> <img src="images/linkedin.png" alt="rans linkedin" class="inline" width ="30"/>
 
